@@ -1,4 +1,5 @@
 ---
-linkTitle: "0. 공지 사항"
+title: Sihan's Review
 bookCollapseSection: true
+weight: 20
 ---

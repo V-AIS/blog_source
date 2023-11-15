@@ -1,4 +1,5 @@
 ---
-linkTitle: "0. 공지 사항"
+title: 0. Beginner
 bookCollapseSection: true
+weight: 2
 ---

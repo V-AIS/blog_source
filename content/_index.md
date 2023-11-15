@@ -1,6 +1,6 @@
 ---
-title: V-AIS
-# enableToc: false
+linkTitle: V-AIS
+bookToc: false
 ---
 
 ## **V.AIS (Vision & Artificial Intelligence Study)** 

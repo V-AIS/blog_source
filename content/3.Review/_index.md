@@ -1,4 +1,4 @@
 ---
-linkTitle: "0. 공지 사항"
+linkTitle: 3. 리뷰 자료
 bookCollapseSection: true
 ---
