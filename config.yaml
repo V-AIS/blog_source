@@ -143,7 +143,8 @@ params:
   services:
     googleAnalytics:
       ID: G-YW2KRWMBVT
-
+    googleAdsense:
+      ID: ca-pub-1054696837285307
   # Don't change this
   enableSPA: false
   BookSearch: false
