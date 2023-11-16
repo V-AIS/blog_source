@@ -27,14 +27,20 @@
   },
   "/1.Seminar/1st_seminar": {
     "title": "1st_seminar",
-    "content": "\n![Poster](image/1st_poster.jpeg)\n\n**세미나 자료는 추후 구글 드라이브 링크로 업데이트 예정입니다!**\n",
-    "lastmodified": "2023-11-15T22:26:01.599467103+09:00",
+    "content": "\n![Poster](image/1st_poster.jpeg)\n\n\u003ca href=\"files/The_1st_V_ais_Seminar.zip\" download=\"The_1st_V_ais_Seminar.zip\"\u003e세미나 발표 자료\u003c/a\u003e",
+    "lastmodified": "2023-11-17T00:56:49.732091998+09:00",
     "tags": []
   },
   "/1.Seminar/2nd_seminar": {
     "title": "2nd_seminar",
-    "content": "\n![Poster](image/2nd_poster.png)\n\n**세미나 자료는 추후 구글 드라이브 링크로 업데이트 예정입니다!**  \n",
-    "lastmodified": "2023-11-15T22:26:01.599467103+09:00",
+    "content": "\n![Poster](image/2nd_poster.png)\n\n\u003ca href=\"files/The_2nd_V_ais_Seminar.zip\" download=\"The_2nd_V_ais_Seminar.zip\"\u003e세미나 발표 자료\u003c/a\u003e",
+    "lastmodified": "2023-11-17T00:56:52.819952263+09:00",
+    "tags": []
+  },
+  "/1.Seminar/3rd_seminar": {
+    "title": "3rd_seminar",
+    "content": "\n![Poster](image/3rd_poster.png)\n\n**이번 세미나 자료는 부득이하게 공유가 어렵습니다!**  \n",
+    "lastmodified": "2023-11-17T00:56:18.589533679+09:00",
     "tags": []
   },
   "/2.Study/": {
