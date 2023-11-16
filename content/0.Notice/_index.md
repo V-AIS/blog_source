@@ -1,4 +1,4 @@
 ---
-linkTitle: "0. 공지 사항"
+title: "0. 공지 사항"
 bookCollapseSection: true
 ---

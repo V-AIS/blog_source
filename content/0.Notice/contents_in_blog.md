@@ -1,5 +1,5 @@
 ---
-linkTitle: 블로그에 있으면 하는 내용
+title: 블로그에 있으면 하는 내용
 tags: 
   - Notice
 ---

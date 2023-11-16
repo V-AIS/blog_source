@@ -1,4 +1,4 @@
 ---
-linkTitle: 2. 공부 자료
+title: 2. 공부 자료
 bookCollapseSection: true
 ---

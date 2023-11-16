@@ -1,5 +1,5 @@
 ---
-linkTitle: 제 3회 V-AIS 세미나 자료
+title: 제 3회 V-AIS 세미나 자료
 ---
 
 ![Poster](/1.Seminar/image/3rd_poster.png)
