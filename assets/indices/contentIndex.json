@@ -1,64 +1,104 @@
 {
   "/": {
-    "title": "_index",
+    "title": "V-AIS",
     "content": "\n## **V.AIS (Vision \u0026 Artificial Intelligence Study)** \n\n어서오세요!  \n카카오톡 오픈채팅 그룹 [Vision \u0026 A.I Study](http://v-ais.github.io/) 블로그 입니다!  \n\n- 오픈채팅방 링크: [V.AIS](https://open.kakao.com/o/ghU9D1o)\n\n- 오픈채팅 입장시 닉네임을 **닉네임/분야/직업** 등으로 되도록이면 변경해주세요!\n\n- 건의 사항, 추가 정보는 [이슈](https://github.com/OpenCVDL/OpenCVDL.github.io/issues) 에 등록해주세요!\n\n- Discord도 같이 운영중입니다! [Discord 링크](https://discord.gg/XtayCRNJmK)\n\n\u003cdiv style=\"font-size: 0.9rem; font-weight:300; line-height: 1.6rem;\"\u003e\n\n\u003cp class=\"message\" style=\"font-size: 0.9rem; font-weight: 700\"\u003e\nMachine Learning, Deep Learning, Vision\n\u003c/p\u003e\n\n\u003c/div\u003e",
-    "lastmodified": "2023-11-16T00:17:57.008107255+09:00",
+    "lastmodified": "2023-11-17T01:29:05.742631235+09:00",
     "tags": []
   },
   "/0.Notice/": {
-    "title": "_index",
+    "title": "0. 공지 사항",
     "content": "",
-    "lastmodified": "2023-11-16T00:18:03.856127616+09:00",
+    "lastmodified": "2023-11-17T23:03:49.441902075+09:00",
     "tags": []
   },
   "/0.Notice/contents_in_blog": {
-    "title": "contents_in_blog",
-    "content": "\n안녕하세요. V-AIS 운영진 Jerry 입니다.\n\n이번에 투표 결과를 정리해보고....\n\n어떤 내용들은 블로그에 작성할지...고민해보려 합니다.\n\n일단 투표 결과에요!\n\n톡방 총 인원 825명 (종료일 기준)  \n읽은 인원 270명  \n투표 인원 163명 \n\n|  순위   | 내용                                         |  투표수  |\n| :---: | :----------------------------------------- | :---: |\n|   1   | AI, 딥러닝 공부 순서                              |  118  |\n|   2   | 따라해볼만한 머신러닝 프로젝트 리스트                       |  98   |\n|   3   | 머신러닝, 딥러닝들 계보 (decision tree -\u003e rf 와 같은..) |  79   |\n|   4   | 입문자를 위한 환경 구축 방법                           |  73   |\n|   5   | 분야별 paper flow                             |  70   |\n|   6   | 추천 세미나 달력                                  |  49   |\n|   7   | 프레임워크 별 장단점 소개                             |  41   |\n|   8   | 머신러닝 데이터 목록                                |  34   |\n|   9   | awesome 논문 리스트                             |  26   |\n|  10   | 면접 질문고찰                                    |  24   |\n|  11   | 하드웨어 관련 내용                                 |  18   |\n|  12   | 분야별 Awesome 모음집                            |  18   |\n|  13   | 질문하는 법                                     |   9   |\n\n\n\n생각보다 힘든 일이 될 것 같군요...  \n운영진 분들과 회의 후 천천히 진행하도록 하겠습니다!  \n감사합니다!",
-    "lastmodified": "2023-11-15T22:26:01.487469282+09:00",
+    "title": "블로그에 있으면 하는 내용",
+    "content": "\n안녕하세요. V-AIS 운영진 Jerry 입니다.\n\n이번에 투표 결과를 정리해보고....\n\n어떤 내용들은 블로그에 작성할지...고민해보려 합니다.\n\n일단 투표 결과에요!\n\n톡방 총 인원 825명 (종료일 기준)  \n읽은 인원 270명  \n투표 인원 163명 \n\n|  순위   | 내용                                         |  투표수  |\n| :---: | :----------------------------------------- | :---: |\n|   1   | AI, 딥러닝 공부 순서                              |  118  |\n|   2   | 따라해볼만한 머신러닝 프로젝트 리스트                       |  98   |\n|   3   | 머신러닝, 딥러닝들 계보 (decision tree -\u003e rf 와 같은..) |  79   |\n|   4   | `**입문자를 위한 환경 구축 방법 -\u003e 작업중...**`                           |  73   |\n|   5   | 분야별 paper flow                             |  70   |\n|   6   | 추천 세미나 달력                                  |  49   |\n|   7   | `**프레임워크 별 장단점 소개 -\u003e 작업중...**`                     |  41   |\n|   8   | `**머신러닝 데이터 목록 -\u003e 작업중...**`               |  34   |\n|   9   | awesome 논문 리스트                             |  26   |\n|  10   | 면접 질문고찰                                    |  24   |\n|  11   | 하드웨어 관련 내용                                 |  18   |\n|  12   | 분야별 Awesome 모음집                            |  18   |\n|  13   | ~~질문하는 법~~                                     |   9   |\n\n\n\n생각보다 힘든 일이 될 것 같군요...  \n운영진 분들과 회의 후 천천히 진행하도록 하겠습니다!  \n감사합니다!",
+    "lastmodified": "2023-11-17T23:43:57.786145687+09:00",
+    "tags": [
+      "Notice"
+    ]
+  },
+  "/0.Notice/question": {
+    "title": "질문하는 방법",
+    "content": "\n## 질문하기 이전에\n\u003e질문과 답변은 질문자와 답변자 간의 의사소통입니다.  \n서로가 서로를 파악하여야 더욱 더 좋은 의사소통이 될 수 있습니다.  \n\n## 이런 내용들 좋아요!\n### 1. 문제 이해\n당연히 내가 무엇을 알고 있고 무엇이 궁금한지 정리부터 합니다.  \n구체적이면 구체적일 수록 좋습니다.\n\n### 2. 정보 공유\n질문에 대해 이해할 수 있도록 많은 정보를 제공하는 것은 빠른 답변, 양질의 답변을 얻는데 도움이 됩니다!  \n현재 겪고 있는 상황, 스스로 해소하기 위해 검색한 내용, 자료등을 공유해주시면 좋습니다!  \n예시로 코드 에러라고 하면 다음과 같이 정보를 줄 수 있을 것 같습니다.\n\u003e`**어떤 코드**`를 실행했을 때 `**몇 번째 라인**`에서 `**어떤 에러**`가 발생했다.  \n`**어디에서 이런 방식**`으로 해결해보라고 하였는데 시도를 해보니 어떻게 되었다.  \n\n\n### 3. 질문은 명확하고 간결하게\n질문을 하실 때 매우 두려움을 느끼실 수도 있을 거라 생각합니다.  \n\"이거 너무 쉬운거 아닌가\", \"이것도 모른다고 생각하면 어쩌지\", 등등...  \n그렇다고 해서 질문 내용 이외에 다소 감정적인 표현들이 질문에 같이 들어가면 오히려 텍스트가 많아지기 때문에 답변이 다소 오래 걸릴 수도 있어요!  \n딱딱해보여도 불필요한 내용은 줄이고 질문이 명확하게 보일 수 있게 하시는게 좋습니다!\n",
+    "lastmodified": "2023-11-17T01:54:33.412435982+09:00",
     "tags": [
       "Notice"
     ]
   },
   "/1.Seminar/": {
-    "title": "_index",
+    "title": "1. 세미나 자료",
     "content": "",
-    "lastmodified": "2023-11-16T00:18:11.300149936+09:00",
+    "lastmodified": "2023-11-17T23:03:55.713474767+09:00",
     "tags": []
   },
   "/1.Seminar/1st_seminar": {
-    "title": "1st_seminar",
-    "content": "\n![Poster](image/1st_poster.jpeg)\n\n\u003ca href=\"files/The_1st_V_ais_Seminar.zip\" download=\"The_1st_V_ais_Seminar.zip\"\u003e세미나 발표 자료\u003c/a\u003e",
-    "lastmodified": "2023-11-17T00:56:49.732091998+09:00",
+    "title": "제 1회 V-AIS 세미나 자료",
+    "content": "\n![Poster](/1.Seminar/image/1st_poster.jpeg)\n\n\u003ca href=\"/1.Seminar/files/The_1st_V_ais_Seminar.zip\" download=\"The_1st_V_ais_Seminar.zip\"\u003e세미나 발표 자료\u003c/a\u003e",
+    "lastmodified": "2023-11-17T01:29:05.742631235+09:00",
     "tags": []
   },
   "/1.Seminar/2nd_seminar": {
-    "title": "2nd_seminar",
-    "content": "\n![Poster](image/2nd_poster.png)\n\n\u003ca href=\"files/The_2nd_V_ais_Seminar.zip\" download=\"The_2nd_V_ais_Seminar.zip\"\u003e세미나 발표 자료\u003c/a\u003e",
-    "lastmodified": "2023-11-17T00:56:52.819952263+09:00",
+    "title": "제 2회 V-AIS 세미나 자료",
+    "content": "\n![Poster](/1.Seminar/image//2nd_poster.png)\n\n\u003ca href=\"/1.Seminar/files/The_2nd_V_ais_Seminar.zip\" download=\"The_2nd_V_ais_Seminar.zip\"\u003e세미나 발표 자료\u003c/a\u003e",
+    "lastmodified": "2023-11-17T01:29:05.742631235+09:00",
     "tags": []
   },
   "/1.Seminar/3rd_seminar": {
-    "title": "3rd_seminar",
-    "content": "\n![Poster](image/3rd_poster.png)\n\n**이번 세미나 자료는 부득이하게 공유가 어렵습니다!**  \n",
-    "lastmodified": "2023-11-17T00:56:18.589533679+09:00",
+    "title": "제 3회 V-AIS 세미나 자료",
+    "content": "\n![Poster](/1.Seminar/image/3rd_poster.png)\n\n**이번 세미나 자료는 부득이하게 공유가 어렵습니다!**  \n",
+    "lastmodified": "2023-11-17T01:29:05.742631235+09:00",
     "tags": []
   },
   "/2.Study/": {
-    "title": "_index",
+    "title": "2. 공부 자료",
     "content": "",
-    "lastmodified": "2023-11-16T00:18:19.524174827+09:00",
+    "lastmodified": "2023-11-17T23:04:01.625076812+09:00",
     "tags": []
   },
   "/2.Study/beginner/": {
-    "title": "0. Beginner",
+    "title": "1. Beginner",
     "content": "",
-    "lastmodified": "2023-11-15T23:47:56.878635842+09:00",
+    "lastmodified": "2023-11-17T23:35:27.143596269+09:00",
     "tags": []
+  },
+  "/2.Study/beginner/compare_framework": {
+    "title": "프레임워크 별 장단점",
+    "content": "\n이 글은 드래프트 입니다.\n\n{{\u003c columns \u003e}}\n## TensorFlow\n### 장점  \n- 성숙한 에코시스템, 강력한 지원과 다양한 도구, 라이브러리 제공  \n- TensorFlow Serving, TensorFlow Lite 등을 통한 모델 배포 용이성  \n- 연구와 산업 분야 모두에 적합\n\n### 단점  \n- 모델 설계 및 실험을 위한 유연성이 상대적으로 부족할 수 있음  \n- 처음 사용자에게는 기능과 API의 복잡성이 높을 수 있음\n\n\u003c---\u003e\n\n## PyTorch\n### 장점  \n- 쉬운 문법과 직관적인 설계로 사용자들에게 인기  \n- 동적 그래프 형태로 자유로운 모델 디자인 및 실험 가능  \n- 활발한 커뮤니티와 개발자들의 지속적인 기여로 발전 중\n\n### 단점  \n- TensorFlow보다 기업에서의 지원이 상대적으로 부족할 수 있음  \n\n\u003c---\u003e\n\n## Keras\n### 장점  \n- 직관적이고 간단한 API로 빠른 프로토타이핑 가능  \n- TensorFlow, Theano, CNTK 등 다양한 백엔드 지원. (추후 추가 예정)\n- 초보자와 교육 목적으로 적합한 사용자 친화적인 환경\n\n### 단점  \n- TensorFlow나 PyTorch에 비해 저수준 기능을 제어하기 어려울 수 있음  \n- TensorFlow나 PyTorch에 비해 모델 수정 및 실험에 제한이 있을 수 있음\n{{\u003c /columns \u003e}}\n",
+    "lastmodified": "2023-11-17T23:32:39.94784271+09:00",
+    "tags": [
+      "Deep Learning Framework"
+    ]
   },
   "/2.Study/beginner/setting": {
     "title": "개발 환경 구축",
     "content": "\n개발 환경 구축에 대해 설명\n\n# Python 개발 환경\n- Local, virtualenv, venv, poetry, pyenv, Anaconda, Docker",
     "lastmodified": "2023-11-15T23:52:41.974267629+09:00",
+    "tags": []
+  },
+  "/2.Study/common/": {
+    "title": "0. For everyone",
+    "content": "",
+    "lastmodified": "2023-11-17T23:35:52.613666056+09:00",
+    "tags": []
+  },
+  "/2.Study/common/dataset/": {
+    "title": "Dataset 모음",
+    "content": "\nML/DL에 사용되는 Open Dataset 정보를 모으는 곳입니다!\n\n",
+    "lastmodified": "2023-11-17T23:46:11.015549703+09:00",
+    "tags": []
+  },
+  "/2.Study/common/dataset/Text": {
+    "title": "Text",
+    "content": "\nText dataset 목록입니다!\n\n",
+    "lastmodified": "2023-11-17T23:42:00.784744296+09:00",
+    "tags": []
+  },
+  "/2.Study/common/dataset/image": {
+    "title": "Image",
+    "content": "\nImage dataset 목록입니다!\n\n",
+    "lastmodified": "2023-11-17T23:42:04.992951006+09:00",
     "tags": []
   },
   "/2.Study/legacy/": {
@@ -94,18 +134,36 @@
     ]
   },
   "/3.Review/": {
-    "title": "_index",
+    "title": "3. 리뷰 자료",
     "content": "",
-    "lastmodified": "2023-11-16T00:18:25.188192108+09:00",
+    "lastmodified": "2023-11-17T23:03:15.9002796+09:00",
     "tags": []
   },
-  "/3.Review/sihan/": {
+  "/3.Review/0.Paper/": {
+    "title": "0. 논문 리뷰",
+    "content": "",
+    "lastmodified": "2023-11-17T23:02:52.074066894+09:00",
+    "tags": []
+  },
+  "/3.Review/0.Paper/test": {
+    "title": "Test paper",
+    "content": "\n테스트 페이지 입니다.\n\n## Example\n\n{{\u003c columns \u003e}}\n```tpl\n{{\u003c/*/* mermaid [class=\"text-center\"]*/*/\u003e}}\nstateDiagram-v2\n    State1: The state with a note\n    note right of State1\n        Important information! You can write\n        notes.\n    end note\n    State1 --\u003e State2\n    note left of State2 : This is the note to the left.\n{{\u003c/*/* /mermaid */*/\u003e}}\n```\n\n\u003c---\u003e\n\n{{\u003c mermaid \u003e}}\nstateDiagram-v2\n    State1: The state with a note\n    note right of State1\n        Important information! You can write\n        notes.\n    end note\n    State1 --\u003e State2\n    note left of State2 : This is the note to the left.\n{{\u003c /mermaid \u003e}}\n\n{{\u003c /columns \u003e}}\n",
+    "lastmodified": "2023-11-17T23:53:12.005181373+09:00",
+    "tags": []
+  },
+  "/3.Review/1.Book/": {
+    "title": "1. 책 리뷰",
+    "content": "",
+    "lastmodified": "2023-11-17T23:05:26.603842711+09:00",
+    "tags": []
+  },
+  "/3.Review/1.Book/sihan/": {
     "title": "Sihan's Review",
     "content": "",
-    "lastmodified": "2023-11-15T23:37:08.919466826+09:00",
+    "lastmodified": "2023-11-17T23:05:25.68389478+09:00",
     "tags": []
   },
-  "/3.Review/sihan/ml_book_rebiew_gilbut_1": {
+  "/3.Review/1.Book/sihan/ml_book_rebiew_gilbut_1": {
     "title": "머신러닝 교과서 with 파이썬, 사이킷런, 텐서플로",
     "content": "\n[원문 링크](https://sihan-son.github.io/book/ml-book-review-gilbut-1/)\n\n\u003cimg src = 'https://sihan-son.github.io/images/blog/book1.jpg'\u003e\n\n이 책은 다른 머신러닝 도서가 그렇듯이 인공지능이 어떤 역사를 가지고 발전했는지로 이야기를 시작합니다. 머신러닝에서 사용되는 전반인 용어와 표기법에 대한 정의로 글을 시작하기 때문에 입문서로 큰 장점이라고 생각됩니다. 입문서라고 나온 도서들 중에도 번역된 용어와 원어가 혼재되어 사용되어 인터넷에서 얻는 자료와 용어차이에서 오는 괴리감이 있는데 이 책은 그 부분을 해결 해주는 부분이 있습니다.   \n\n파이썬에 익숙하지 않은 사용자를 위해서 패키지 관리를 위해 `pip`와 `conda`에 대한 사용법도 제시하고 있습니다. 하지만 파이썬 문법에 대한 설명이 없기 때문에 파이썬은 어느 정도 익힌 다음에 읽는 것을 추천합니다.\n\n\n\n2장부터는 실제적인 실습으로 들어갑니다. `퍼셉트론`으로 시작해서 익숙하지 않았던 `아달린` 모델 등 프레임워크를 이용하지 않고, `numpy`와 `sklearn`을 이용해서 코드를 작성하기 때문에 `PYTHON`에 익숙해지고 머신러닝의 개념을 잡기에 좋은 구성이라고 생각합니다. 수학 또한 어떤식으로 유도가 되고 어떻게 적용이 되는지 알려주기 때문에 수학적으로 탄탄이 갖출 수 있는 책입니다.  \n\n\u003cimg src = 'https://sihan-son.github.io/images/book/gilbut/ml/2.jpg'\u003e  \n\n처럼 수식을 통해서 설명을 하고 있어서 느낌적으로 이해 하는 것이 아니라 실제적으로 어떤 과정을 통해서 유도 하는지 보여주고 있습니다\n\n\u003cimg src = 'https://sihan-son.github.io/images/book/gilbut/ml/1.jpg'\u003e   \n\n기하적으로 어떤식으로 규제와 `Loss`가 사용되는지 보여주기 때문에 다른 책을 통해서 봤을 때 이해가 되지 않던 부분이 명확지는 느낌을 받을 수가 있습니다. \n\n\n\n\n```python\nimport numpy as np\n```\n\n\n```python\nclass Perceptron(object):\n    \n    def __init__(self, eta=0.01, n_iter=50, random_state=1):\n        self.eta = eta\n        self.n_iter = n_iter\n        self.random_state = random_state\n    \n    \n    def fit(self, X, y):\n        rgen = np.random.RandomState(self.random_state)\n        self.w_ = rgen.normal(loc=0.0, scale=0.01, size=1+X.shape[1])\n        self.errors_ = []\n        \n        for _ in range(self.n_iter):\n            errors = 0\n            for xi, target in zip(X, y):\n                update = self.eta * (target - self.predict(xi))\n                self.w_[1:] += update * xi\n                self.w_[0] += update\n                errors += int(update != 0.0)\n            self.errors_.append(errors)\n        return self\n\n    def net_input(self, X):\n        return np.dot(X, self.w_[1:] + self.w_[0])\n    \n    def predict(self, X):\n        return np.where(self.net_input(X) \u003e= 0.0, 1, -1)\n```\n\n\n```python\nimport pandas as pd\ndf = pd.read_csv('https://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data', header=None)\ndf.tail()\n```\n\n\n\n\n\u003cdiv\u003e\n\u003cstyle scoped\u003e\n    .dataframe tbody tr th:only-of-type {\n        vertical-align: middle;\n    }\n\n    .dataframe tbody tr th {\n        vertical-align: top;\n    }\n\n    .dataframe thead th {\n        text-align: right;\n    }\n\u003c/style\u003e\n\u003ctable border=\"1\" class=\"dataframe\"\u003e\n  \u003cthead\u003e\n    \u003ctr style=\"text-align: right;\"\u003e\n      \u003cth\u003e\u003c/th\u003e\n      \u003cth\u003e0\u003c/th\u003e\n      \u003cth\u003e1\u003c/th\u003e\n      \u003cth\u003e2\u003c/th\u003e\n      \u003cth\u003e3\u003c/th\u003e\n      \u003cth\u003e4\u003c/th\u003e\n    \u003c/tr\u003e\n  \u003c/thead\u003e\n  \u003ctbody\u003e\n    \u003ctr\u003e\n      \u003cth\u003e145\u003c/th\u003e\n      \u003ctd\u003e6.7\u003c/td\u003e\n      \u003ctd\u003e3.0\u003c/td\u003e\n      \u003ctd\u003e5.2\u003c/td\u003e\n      \u003ctd\u003e2.3\u003c/td\u003e\n      \u003ctd\u003eIris-virginica\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003cth\u003e146\u003c/th\u003e\n      \u003ctd\u003e6.3\u003c/td\u003e\n      \u003ctd\u003e2.5\u003c/td\u003e\n      \u003ctd\u003e5.0\u003c/td\u003e\n      \u003ctd\u003e1.9\u003c/td\u003e\n      \u003ctd\u003eIris-virginica\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003cth\u003e147\u003c/th\u003e\n      \u003ctd\u003e6.5\u003c/td\u003e\n      \u003ctd\u003e3.0\u003c/td\u003e\n      \u003ctd\u003e5.2\u003c/td\u003e\n      \u003ctd\u003e2.0\u003c/td\u003e\n      \u003ctd\u003eIris-virginica\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003cth\u003e148\u003c/th\u003e\n      \u003ctd\u003e6.2\u003c/td\u003e\n      \u003ctd\u003e3.4\u003c/td\u003e\n      \u003ctd\u003e5.4\u003c/td\u003e\n      \u003ctd\u003e2.3\u003c/td\u003e\n      \u003ctd\u003eIris-virginica\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003cth\u003e149\u003c/th\u003e\n      \u003ctd\u003e5.9\u003c/td\u003e\n      \u003ctd\u003e3.0\u003c/td\u003e\n      \u003ctd\u003e5.1\u003c/td\u003e\n      \u003ctd\u003e1.8\u003c/td\u003e\n      \u003ctd\u003eIris-virginica\u003c/td\u003e\n    \u003c/tr\u003e\n  \u003c/tbody\u003e\n\u003c/table\u003e\n\u003c/div\u003e\n\n\n\n\n```python\nimport matplotlib.pyplot as plt\n\ny = df.iloc[0:100, 4].values\ny = np.where(y == 'Iris-setosa', -1, 1)\n\nX = df.iloc[0:100, [0, 2]].values\n\nplt.scatter(X[:50, 0], X[:50, 1], color='red', marker='o', label='setosa')\nplt.scatter(X[50:100, 0], X[50:100, 1], color='blue', marker='x', label='versicolor')\nplt.xlabel('sepal length [cm]')\nplt.ylabel('petal length [cm]')\nplt.legend(loc='upper left')\nplt.show()\n```\n\n\n\u003cimg src = 'https://sihan-son.github.io/images/book/gilbut/ml/3.png'\u003e\n\n\n\n`Jupyter Notebook`을 이용해서 실습을 진행해 `Jupyter Notebook`에 대한 사용법도 익힐 수 있습니다.\n\n\n\n이렇게 역사를 훑고 난 뒤에는 많이 쓰고 있는 모델인 `logistic regression`, `SVM`, `결정 트릭`, `KNN` 등을 예제 코드와 함께 공부 할 수 있습니다. 코드만 있거나 설명만 있는 구조가 아니라 설명과 함께 전체 코드를 짜보면서 할 수 있습니다. 코드는 `GitHub`을 통해서 제공 되기 때문에 오타 등으로 인해서 다른 결과가 나오는 것을 쉽게 잡을 수 있고, 코드 분석을 책에 있는 것보다 편하게 할 수 있습니다. \n\n\n데이터 셋을 만들고 가공하는 법에 대한 것도 한 장을 크게 할애하고 있습니다. 머신러닝의 핵심 요소 중 하나인 차원 축소를 위한 알고리즘에 해당하는 `주성분 분석`, `PCA` 등의 알고리즘 설명이 충분히 있습니다. \n\n저수준 API까지 잘 설명이 되어 있습니다. `tensorflow 2.0`이 나오면서 변경 된 변경점들을 이전 버전과 비교 해주고 있기 때문에 인공지능에 입문하려고 고민하면서 책을 찾고 있다면 좋은 책입니다. 교과서라는 책 이름 처럼 차근차근 쌓아 나갈 수 있기 때문에 머신러닝 입문서를 찾고 있다면 추천할 만한 책입니다.\n\n---\n본 리뷰는 길벗에서 책을 제공받아 작성된 리뷰입니다. ",
     "lastmodified": "2023-11-15T23:37:21.279791917+09:00",

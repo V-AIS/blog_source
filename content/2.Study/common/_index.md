@@ -1,5 +1,5 @@
 ---
-title: 1. Beginner
+title: 0. For everyone
 bookCollapseSection: true
 weight: 2
 ---
