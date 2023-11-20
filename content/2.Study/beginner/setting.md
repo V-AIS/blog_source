@@ -70,4 +70,5 @@ conda activate myenv
 {{< /expand >}}
 
 {{< expand "Docker">}}
+이건 나중에.... 공부하시는게 좋을 것 같아요...
 {{< /expand >}}
