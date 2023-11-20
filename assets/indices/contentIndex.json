@@ -73,9 +73,11 @@
   },
   "/2.Study/beginner/setting": {
     "title": "개발 환경 구축",
-    "content": "\n개발 환경 구축에 대해 설명\n\n# Python 개발 환경\n- Local, virtualenv, Anaconda, Docker\n\n## Local\n\n## virtualenv\n\n## Anaconda\n1. 아나콘다 다운로드\n먼저, 아나콘다를 다운로드하기 위해 아나콘다 공식 웹사이트에서 우분투용 설치 파일을 다운로드합니다. 예를 들면:\n\nbash\nCopy code\nwget https://repo.anaconda.com/archive/Anaconda3-latest-Linux-x86_64.sh\n2. 다운로드한 파일 실행 권한 부여\n다운로드한 설치 파일에 실행 권한을 부여합니다.\n\nbash\nCopy code\nchmod +x Anaconda3-latest-Linux-x86_64.sh\n3. 아나콘다 설치\n이제 아나콘다 설치 파일을 실행하여 아나콘다를 설치합니다.\n\nbash\nCopy code\n./Anaconda3-latest-Linux-x86_64.sh\n설치 과정 중에는 라이센스 동의, 설치 경로 지정 등의 프롬프트가 표시됩니다. 지시에 따라 설치를 진행합니다.\n\n4. 아나콘다 환경 설정\n설치가 완료되면 아나콘다가 시스템 경로에 추가됩니다. 하지만 새로운 터미널 세션을 열거나 아래 명령어를 입력하여 변경 사항을 적용합니다.\n\nbash\nCopy code\nsource ~/.bashrc\n5. 가상환경 생성 및 관리\n가상환경을 생성하고 관리하기 위해 conda 명령어를 사용합니다.\n\n새로운 가상환경 생성:\nbash\nCopy code\nconda create --name myenv\n여기서 myenv는 새로운 가상환경의 이름입니다. 이 이름을 원하는 대로 변경할 수 있습니다.\n\n가상환경 활성화:\nbash\nCopy code\nconda activate myenv\n필요한 패키지 설치 등의 작업을 위해 가상환경을 활성화한 후, conda install \u003cpackage_name\u003e과 같은 명령어를 사용합니다.\n6. 주피터 노트북 실행\n가상환경을 활성화한 후, 주피터 노트북을 실행하여 코드 작성 및 실행을 할 수 있습니다.\n\nbash\nCopy code\njupyter notebook\n위 명령어를 입력하면 브라우저에서 주피터 노트북이 열리며, 코드 작성과 실행이 가능합니다.\n\n이렇게하면 Ubuntu CLI를 사용하여 아나콘다를 설치하고 가상환경을 관리할 수 있습니다. CLI를 사용하면 보다 세부적인 제어가 가능하며, 원하는 작업을 자유롭게 수행할 수 있습니다.\n\n\n\n\n\n\n## Docker",
-    "lastmodified": "2023-11-18T00:17:56.29932369+09:00",
-    "tags": []
+    "content": "\n작성중입니다!\n\n# Python 개발 환경\n- Local, virtualenv, Anaconda, Docker\n\n\n{{\u003c expand \"Local\"\u003e}}\n## Local\n{{\u003c /expand \u003e}}\n\n{{\u003c expand \"virtualenv\"\u003e}}\n{{\u003c /expand \u003e}}\n\n{{\u003c expand \"Anaconda\"\u003e}}\n\n1. 아나콘다 다운로드  \n\n먼저, 아나콘다를 다운로드하기 위해 아나콘다 공식 웹사이트에서 우분투용 설치 파일을 다운로드합니다.\n\n```bash\nwget https://repo.anaconda.com/archive/Anaconda3-latest-Linux-x86_64.sh\n```\n2. 다운로드한 파일 실행 권한 부여  \n\n다운로드한 설치 파일에 실행 권한을 부여합니다.\n\n```bash\nchmod +x Anaconda3-latest-Linux-x86_64.sh\n```\n\n3. 아나콘다 설치  \n\n이제 아나콘다 설치 파일을 실행하여 아나콘다를 설치합니다.\n\n```bash\n./Anaconda3-latest-Linux-x86_64.sh\n```\n설치 과정 중에는 라이센스 동의, 설치 경로 지정 등의 프롬프트가 표시됩니다. 지시에 따라 설치를 진행합니다.\n\n4. 아나콘다 환경 설정  \n\n설치가 완료되면 아나콘다가 시스템 경로에 추가됩니다. 하지만 새로운 터미널 세션을 열거나 아래 명령어를 입력하여 변경 사항을 적용합니다.\n\n```bash\nsource ~/.bashrc\n```\n\n5. 가상환경 생성 및 관리  \n\n가상환경을 생성하고 관리하기 위해 conda 명령어를 사용합니다.\n\n새로운 가상환경 생성:\n```bash\nconda create --name myenv\n```\n\n여기서 myenv는 새로운 가상환경의 이름입니다. 이 이름을 원하는 대로 변경할 수 있습니다.\n\n가상환경 활성화:\n```bash\nconda activate myenv\n```\n필요한 패키지 설치 등의 작업을 위해 가상환경을 활성화한 후, conda install \u003cpackage_name\u003e과 같은 명령어를 사용합니다.\n{{\u003c /expand \u003e}}\n\n{{\u003c expand \"Docker\"\u003e}}\n{{\u003c /expand \u003e}}",
+    "lastmodified": "2023-11-18T00:30:21.608889845+09:00",
+    "tags": [
+      "Setting"
+    ]
   },
   "/2.Study/common/": {
     "title": "0. For everyone",

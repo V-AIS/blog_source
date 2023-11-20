@@ -145,6 +145,9 @@ params:
       ID: G-YW2KRWMBVT
     googleAdsense:
       ID: ca-pub-1054696837285307
+    disqus:
+      shortname: https-v-ais-github-io
+
   # Don't change this
   enableSPA: false
   BookSearch: false
