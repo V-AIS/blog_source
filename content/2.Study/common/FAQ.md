@@ -1,5 +1,5 @@
 ---
-title: Frequently Asked Questions
+title: FAQ
 weight: 2
 ---
 
@@ -20,8 +20,18 @@ CUDA는 `nvcc --version`으로 확인하셔야합니다.
 ```
 {{< /details >}}
 
+{{< details "CUDA를 설치했는데 `nvcc --version`을 해도 명령어가 동작을 안해요!">}}
+```markdown
+설치를 잘못하셨다는 의미입니다.  
+혹시나 다음과 같은 작업을 잊으신건 아닐까요? 
+`export PATH={cuda bin 경로}:$PATH`  
+`export LD_LIBRARY_PATH={cuda lib64 경로}:$LD_LIBRARY_PATH`  
+~/.bashrc 에 위 내용이 적혀있는지 확인해보세요!
+```
+{{< /details >}}
+
 {{< details "Computer Vision 공부를 하려고 하는데요! 어떤 책을 보면 좋을까요?">}}
-[서적 모음](http:/../../2.Study/legacy/book_recommend/)
+[서적 모음](../../2.Study/legacy/book_recommend/)
 ```markdown
 `2.공부자료/N.Legacy/서적 모음`게시글에서 디지털 영상처리, 컴퓨터 비전 추천드립니다.!
 ```
@@ -32,4 +42,3 @@ CUDA는 `nvcc --version`으로 확인하셔야합니다.
 대중적으론 PyTorch를 많이 씁니다만.....취업 후에는 회사에서 쓰는거 쓰시면 됩니다.
 ```
 {{< /details >}}
-
