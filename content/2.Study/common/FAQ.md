@@ -5,6 +5,7 @@ weight: 2
 
 자주 듣는 질문 모음입니다!
 
+# 환경 설정 관련
 {{< details "Windows와 Linux 중 뭘 써야하나요?">}}
 ```markdown
 요즘은 Windows에서도 WSL이 잘 되어있어서 어떤걸 사용하셔도 큰 문제 없습니다.  
@@ -30,6 +31,8 @@ CUDA는 `nvcc --version`으로 확인하셔야합니다.
 ```
 {{< /details >}}
 
+# 이론 & 실전 관련
+
 {{< details "Computer Vision 공부를 하려고 하는데요! 어떤 책을 보면 좋을까요?">}}
 [서적 모음](../../2.Study/legacy/book_recommend/)
 ```markdown
@@ -37,8 +40,19 @@ CUDA는 `nvcc --version`으로 확인하셔야합니다.
 ```
 {{< /details >}}
 
-{{< details "PyTorch vs TensorFlow">}}
+{{< details "OOM(Out Of Memory)를 해결하는 방법에는 어떤게 있을까요?">}}
 ```markdown
-대중적으론 PyTorch를 많이 씁니다만.....취업 후에는 회사에서 쓰는거 쓰시면 됩니다.
+1. 상위 GPU로 변경
+2. 배치 사이즈 줄이기
+3. 모델 사이즈 줄이기
+4. 입력 사이즈 줄이기
+5. Gradient Accumulation 사용하기 (추후 포스팅 예정)
+6. Mixed Precision 사용하기 (추후 포스팅 예정)
+...
+
+물론 더 있겠지만.... 여기 까지만 적겠습니다.  
+추가하고 싶으신 내용이 있다면 댓글로!
+
 ```
 {{< /details >}}
+
